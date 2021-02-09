@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me on LinkedIn:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/vini-miranda/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="HeloisaBeatriz" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/vini-miranda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="HeloisaBeatriz" height="50" width="50" /></a>
 </p>
 <!--
 **vini-miranda/vini-miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
