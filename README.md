@@ -3,7 +3,8 @@
 ### I'm currently part of the class14 of Generation Brasil and I am learning some programming languages, tools and soft skills! 🙌
 
 <h3 align="left">About me:</h3>
-<p align="left">✨Currently a student at Generation Brasil</p>
+<p align="left">✨I work as a jr developer at one of the biggest banks in latin america</p>
+<p align="left">✨Currently a student at Descomplica Online</p>
 <p align="left">✨I practice music production, mixing, mastering and beatmaking in my spare time</p>
 <p align="left">✨In career transition and lover of technology and games</p>
 
