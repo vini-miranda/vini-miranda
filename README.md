@@ -1,6 +1,6 @@
 ### Hi there, i'm Vinicius Miranda! 👋
 
-### I'm currently part of the class14 of Generation Brasil and I am learning some programming languages, tools and soft skills! 🙌
+### Currently working with C#/Java and studying systems analysis and development 🙌
 
 <h3 align="left">About me:</h3>
 <p align="left">✨I work as a jr developer at one of the biggest banks in latin america</p>
